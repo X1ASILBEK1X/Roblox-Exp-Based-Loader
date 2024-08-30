@@ -1,0 +1,8 @@
+-- Local Variables
+local plr = game.Players.LocalPlayer
+local char = plr:FindFirstChild("Character")
+
+-- Action
+if char then do
+warn(" - Player Character Found! - ")
+end
