@@ -1,8 +1,1 @@
--- Local Variable
-local plr = game.Players.LocalPlayer
-local char = plr:FindFirstChild("Character")
-
--- Find Character
-if char then do
-print("Player Character Found")
-end
+print("Hello from GitHub WebSite")
